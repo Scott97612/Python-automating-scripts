@@ -1,0 +1,13 @@
+﻿{
+    "Password locker": "pw.py",
+    "email/phone extractor": "extract.py",
+    "multiclipboard": "mcb.py",
+    "google search shortcut": "google.py",
+    "get any city weather forcast": "weather.py",
+    "youtube video downloader (prototype)": "yt.py",
+    "send email (module)": "send_auto_email_module.py",
+    "send email from cmd": "send_email.py",
+    "test summarization using spaCy (model module)(prototype)": "summarization_module.py",
+    "test summarization using spaCy (interface module)": "sum_interface.py",
+    "test summarization using spaCy (run file)": "textsum.py"
+}
